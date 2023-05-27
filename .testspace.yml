@@ -1,0 +1,8 @@
+manual:
+  issues:
+    provider: generic
+
+release:
+  - "*_release"
+
+commit_status: false
